@@ -5,7 +5,7 @@
 
 - 🔭Kendi web site projem [cilekesdev](https://github.com/okyleyz/cilekesdev)
 
-- 💬 hakkımda **19 yaşında genç bi developerm**
+- 💬 **19 yaşında genç bi developerm**
 
 - 📫 benimle iletişime geç **info@okyleyz.com.tr**
 
